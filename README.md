@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Lead generation through Web Scraping Project
 
 ## Overview
@@ -57,3 +58,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 Special thanks to the open-source community for providing the tools used in this project.
+=======
+# leadgen-project
+>>>>>>> 1e2eaf187179b22b2656baddcb5e35876881a1ab
